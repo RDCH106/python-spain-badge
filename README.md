@@ -42,3 +42,11 @@
 ``` markdown
 [![Python España](https://img.shields.io/badge/Python-Espa%C3%B1a-blue.svg?maxAge=31536000&logo=github&colorA=e60000&colorB=ffcc12&style=for-the-badge)](https://www.es.python.org)
 ```
+
+### Social
+
+[![Python España](https://img.shields.io/badge/Python-Espa%C3%B1a-blue.svg?maxAge=31536000&logo=github&colorA=e60000&colorB=ffcc12&style=social)](https://www.es.python.org)
+
+``` markdown
+[![Python España](https://img.shields.io/badge/Python-Espa%C3%B1a-blue.svg?maxAge=31536000&logo=github&colorA=e60000&colorB=ffcc12&style=social)](https://www.es.python.org)
+```
